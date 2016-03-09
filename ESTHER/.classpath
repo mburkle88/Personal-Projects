@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="src" path="Networks"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Program Files/neurophstudio/neurophstudio/core/locale/core_neurophstudio.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/neurophstudio/neurophstudio/modules/org-neuroph-netbeans.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/neurophstudio/neurophstudio/modules/org-neuroph-netbeans-project.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/neurophstudio/neurophstudio/modules/org-neuroph-netbeans-files.jar"/>
+	<classpathentry kind="lib" path="C:/Program Files/neurophstudio/neurophstudio/modules/org-neuroph-netbeans-main.jar"/>
+	<classpathentry kind="lib" path="ESTHER.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

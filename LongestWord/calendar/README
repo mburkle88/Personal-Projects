@@ -1,0 +1,82 @@
+GUI Calendar in Java
+Readme File
+12/10/2001
+===========
+
+Contents
+========
+I. Running and Compiling
+	1. Makefile
+	2. Compiling
+	3. Running
+	4. Generating Documentation
+	5. Cleaning Up
+II. File List
+
+
+Running and Compiling
+=====================
+
+1. Makefile
+-----------
+This program uses "make" to compile, run, and generate API documenation.
+See each section for details.
+
+2. Compiling
+------------
+To compile this program, type "make" in this directory (the same directory
+level as this file)
+
+3. Running
+----------
+To run this program, type "make run" in this directory.
+
+4. Generating Documentation (API)
+---------------------------------
+To generate the developer API for this program, type "make javadoc" in
+this directory.
+
+5. Cleanup
+----------
+To remove all generated java class files and javadoc files, type "make
+clean" in this directory.
+
+
+
+File List
+=========
+README - this file
+
+index.html - web viewable file containing information about the
+	application, links to useful sites, and links to all documentation
+	and source code availabe for the application. 
+
+Makefile - used by make to generate code, run application, and generate
+	documentation
+
+toClass.pl - also used by make to assist in its operations
+
+xalan.jar, crimson.jar, jaxp.jar - Java XML Parser libaries used by the
+	application
+
+testcal.xml - a populated appointment data file that can be used with the
+	application
+
+timelog.txt - group time log for CS450 submission
+
+src/ directory - contains all group source code for the application
+
+docs/apidoc/ - contains all API documentation (if the contents are empty,
+	generate the documenation - see above)
+
+docs/design.doc - Project Design document for CS450, as amended
+
+docs/plan.doc - Project Plan document for CS450, as amended
+
+docs/user_manual.doc - Instruction Manual
+
+docs/final_present.ppt - Final Presentation for CS450
+
+img/ - contains screen shots of the application used by index.html
+
+classes/ - generated code is placed in this directory

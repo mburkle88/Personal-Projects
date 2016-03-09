@@ -1,0 +1,11 @@
+Group Time Log
+
+10/15	10:00am	10:45am	45	All	Design: Discussed design document, planned some objects
+10/17	9:00pm	10:00pm 60	All	Design: Discussed additional object layout
+10/20	10:00am	11:00am	60	No Ben	Design: Discussed data structures
+11/26	7:30pm	8:30pm	60	No Ben	Code: Resolved design issues from personal development activites
+11/27	11:00pm	11:40pm	40	All	Code: Group chat session to resolve design issues and meet
+11/29	9:00pm	10:30pm	90	All	Code: Group meeting
+12/1	6:00pm	8:00pm 	120	All	Presentation: preparation for Monday, Code: development meeting
+12/2	8:00pm	12:00am	480	All	Code: Resolve errors in small groups
+12/3	12:00am	3:30am	400	All	Code: Merge code and resolve errors
